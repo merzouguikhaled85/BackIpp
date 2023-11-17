@@ -1,0 +1,453 @@
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+D:\SignalR\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SignalR\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+D:\SignalR\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+D:\SignalR\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\SignalR\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\SignalR\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\SignalR\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+D:\SignalR\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+D:\SignalR\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+D:\SignalR\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+D:\SignalR\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+D:\SignalR\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+D:\SignalR\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Azure.Core.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Azure.Identity.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Memory.Data.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.CodeDom.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Json.dll
+D:\SignalR\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Azure.Core.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Azure.Identity.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.CodeDom.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Json.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.DirectoryServices.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Enrichers.Environment.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\Projet en cours\ServiceNow\backend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Oracle.EntityFrameworkCore.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Enrichers.Environment.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\System.DirectoryServices.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\Projet en cours\servicenow2\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Oracle.EntityFrameworkCore.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Enrichers.Environment.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.DirectoryServices.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\PdfSharpCore.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\HtmlRenderer.Core.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\HtmlRenderer.PdfSharp.Core.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\SixLabors.Core.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\SixLabors.Fonts.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+D:\Projet en cours\HisHmpit\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\zxing.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Humanizer.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Oracle.EntityFrameworkCore.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\PdfSharpCore.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\HtmlRenderer.Core.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\HtmlRenderer.PdfSharp.Core.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Enrichers.Environment.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\SixLabors.Core.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\SixLabors.Fonts.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.DirectoryServices.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\zxing.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\AutoMapper.dll
+D:\Projet en cours\ProjetHis\HisBackend\WebApplication1\WebApplication1\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
